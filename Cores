@@ -1,0 +1,12 @@
+Core description and mechanisms they use.
+
+Risk-Reward Core 
+Evaluate risk-reward ratio
+
+
+Market Crash Core
+Check for patterns daily and pass signal to other cores to stop operations
+Determine best course of action and prepare
+Schizo Core (need to limit quantity)
+Analyze wallstreetbets (I`ll probably use Gumloop or smth simillar) to determine stock and action. Count similar occurances. Transfer data to risk-reward management core and actually evaluate.
+Probably will use it on a week span.
